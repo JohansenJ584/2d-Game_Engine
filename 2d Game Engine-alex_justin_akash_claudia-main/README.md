@@ -11,5 +11,13 @@ The user can pause the game at anytime and add or delete tiles, collectibles, or
 The player can jump, collect fruits to open doors, dodge enmies and completly levels.
 
 
+We used pygame, SDL2, and pybind11 within our project, so it may need to be installed prior to building.
+To build project run 
+  python3 \Engine\Game\linuxbuild.py
+Our project is only built to run on Linux.
+To run project entire comand
+python3 test.py
+
+
 Doxygen Webpage
 https://cjodlowski.github.io/CS4850FinalProjectWebsite/
